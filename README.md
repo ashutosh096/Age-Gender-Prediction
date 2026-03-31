@@ -49,3 +49,4 @@ Output: The final result is rendered with a rectangle and text label on the orig
 
 Built for Data Science portfolio inclusion.
 ![image alt](https://github.com/ashutosh096/Age-Gender-Prediction/blob/48769073bca9d516459ba0d93673076571d7a096/image%201.png)
+![image alt](https://github.com/ashutosh096/Age-Gender-Prediction/blob/ebac859a77e8864eff817f65008f58ceadc4fadc/image%202.png)
