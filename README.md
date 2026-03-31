@@ -48,3 +48,4 @@ Prediction: The cropped face is passed through the Gender and Age networks, whic
 Output: The final result is rendered with a rectangle and text label on the original image.
 
 Built for Data Science portfolio inclusion.
+![image alt](https://github.com/ashutosh096/Age-Gender-Prediction/blob/48769073bca9d516459ba0d93673076571d7a096/image%201.png)
